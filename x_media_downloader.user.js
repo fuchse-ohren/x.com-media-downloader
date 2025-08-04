@@ -14,8 +14,8 @@
 // @grant       GM_getValue
 // @grant       GM_download
 // @license     MIT
-// @downloadURL 
-// @updateURL 
+// @downloadURL https://github.com/fuchse-ohren/x.com-media-downloader/raw/refs/heads/main/x_media_downloader.user.js
+// @updateURL https://github.com/fuchse-ohren/x.com-media-downloader/raw/refs/heads/main/x_media_downloader.user.js
 // ==/UserScript==
 
 /*
